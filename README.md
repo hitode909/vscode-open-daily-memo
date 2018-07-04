@@ -15,3 +15,7 @@ You can customize direcotory like this.
     "daily-memo.directory": "~/Dropbox/memo/2018",
 }
 ```
+
+## Icon
+
+Icon by http://icooon-mono.com/16054-%E8%8A%B1%E3%82%A2%E3%82%A4%E3%82%B3%E3%83%B3/
