@@ -1,7 +1,17 @@
 # atom-open-daily-memo package
 
-Open daily memo. For example, open `~/Documents/20170220.md` on February 20.
+Provides `Open daily memo` command. It opens `YYYYMMDD.md`.
 
-You can customize direcotory and extension name.
+![screenshot1](images/screenshot1.png)
 
-![screenshot](images/screenshot.png)
+![screenshot2](images/screenshot2.png)
+
+## Customize
+
+You can customize direcotory like this.
+
+```json
+{
+    "daily-memo.directory": "~/Dropbox/memo/2018",
+}
+```

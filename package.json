@@ -11,6 +11,8 @@
     "keywords": [
         "memo"
     ],
+    "icon": "icon.png",
+    "homepage": "https://github.com/hitode909/vscode-open-daily-memo",
     "engines": {
         "vscode": "^1.24.0"
     },
